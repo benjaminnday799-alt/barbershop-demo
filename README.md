@@ -1,2 +1,1 @@
-# barbershop-demo
-My first professional barbershop website
+Folder for barbershop website images.
